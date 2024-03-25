@@ -34,7 +34,7 @@
     "web3-core-helpers": "1.10.0",
     "web3-core-promievent": "1.10.0",
     "web3-eth-abi": "1.10.0",
-    "web3-utils": "1.10.0"
+    "web3-utils": "4.2.1"
   },
   "devDependencies": {
     "assert": "^2.0.0",
